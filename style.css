@@ -1,0 +1,21 @@
+.batman {text-align: center;}
+h1 {
+    background-color: lightgray;
+    color: rgb(35, 35, 99);
+    letter-spacing: 0.2cm;
+    text-align: center;
+    text-transform: uppercase;
+     
+}
+.titulos{
+    background-color: lightgray;
+    color: #232363;
+    letter-spacing: 0.2cm;
+    text-transform: uppercase;
+}
+.contacto{
+    background-color:#232363 ;
+    color: white;
+    text-align: center;
+}
+
